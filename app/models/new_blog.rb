@@ -1,0 +1,2 @@
+class NewBlog < ApplicationRecord
+end
